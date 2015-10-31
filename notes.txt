@@ -1,0 +1,18 @@
+Notes:
+languages we are coding are:
+	HTML:Hyper text Markup language
+	CSS:Cascading Style Sheets
+	 Javascript
+
+HTML:is used to provide the structure of a webpage. It is composed of objects that can be styled by CSS 
+and mantipulated by Javavscript.
+
+What have we learned so far:
+		 HTML Tags:
+			<div>	
+			<html>
+			<body>
+			<head>
+		CSS script:
+		
+		<div id id="about Me" ></div> and class
